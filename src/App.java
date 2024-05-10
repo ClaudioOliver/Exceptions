@@ -11,7 +11,7 @@ public class App {
 
         } catch (Exception ex) {
             // TODO: handle exception
-            System.out.println("Erro: Valor não é um número");
+            System.out.println("Erro: Valor não é um número inteiro");
         }
 
     }
